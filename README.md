@@ -1,2 +1,2 @@
 # HackerRank-C-solutions
-All HackerRank Practice questions of C solutions, 
+HackerRaank practice questions - solutions of C 
