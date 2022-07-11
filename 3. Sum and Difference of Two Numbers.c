@@ -5,7 +5,7 @@
 
 int main()
 {
-	int num1, num2;
+    int num1, num2;
     float n, m;
     scanf("%d %d", &num1, &num2);
     scanf("%f %f", &n, &m);
